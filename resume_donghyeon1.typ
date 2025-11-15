@@ -34,7 +34,7 @@
 // ==================== 헤더 ====================
 
 #align(center)[
-  #text(size: 20pt, weight: "bold")[이동현]
+  #text(size: 20pt, weight: "bold")[Lee_Dong_Hyeon 이동현]
   #v(0.5em)
   #text(size: 12pt)[비즈니스 영향력과 가치를 만드는 개발자]
   #v(0.5em)
