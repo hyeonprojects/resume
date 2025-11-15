@@ -243,11 +243,3 @@
     - 개발 해커톤 3등 수상
   ]
 )
-
-#v(1em)
-
-#align(center)[
-  #text(size: 8pt, fill: gray)[
-    작성일: 2024년 11월 16일
-  ]
-]
